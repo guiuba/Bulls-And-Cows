@@ -1,3 +1,7 @@
+This is my implementation for the classic code breaking game "Bulls and Cows", a Jet Brains Academy project (stage 7/7)
+
+
+---------------------
 My code:
 
 import java.util.Arrays;
