@@ -1,6 +1,6 @@
 This is my implementation for the classic code breaking game "Bulls and Cows", a Jet Brains Academy project (stage 7/7)
 
-
+![image](https://user-images.githubusercontent.com/69851038/117127841-01ebb180-ad73-11eb-82bd-db045b01e929.png)
 ---------------------
 My code:
 
