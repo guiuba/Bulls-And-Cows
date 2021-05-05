@@ -13,6 +13,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
+
     static int turn = 1;
     static int cows = 0;
     static int bulls = 0;
